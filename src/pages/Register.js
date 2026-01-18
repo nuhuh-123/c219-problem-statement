@@ -1,4 +1,3 @@
-// src/pages/Register.js
 import { useMemo, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { getDiploma, getModule } from "../api/api";
@@ -74,7 +73,6 @@ export default function Register() {
       </div>
     );
   }
-
 
   return (
     <div className="card">
