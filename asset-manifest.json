@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/c219-problem-statement/static/css/main.3f0770d8.css",
+    "main.js": "/c219-problem-statement/static/js/main.ff6d0524.js",
+    "index.html": "/c219-problem-statement/index.html",
+    "main.3f0770d8.css.map": "/c219-problem-statement/static/css/main.3f0770d8.css.map",
+    "main.ff6d0524.js.map": "/c219-problem-statement/static/js/main.ff6d0524.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f0770d8.css",
+    "static/js/main.ff6d0524.js"
+  ]
+}
